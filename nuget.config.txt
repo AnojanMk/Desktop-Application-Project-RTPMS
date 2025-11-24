@@ -1,0 +1,8 @@
+xml
+<configuration>
+  <packageSourceMapping>
+    <packageSource key="nuget.org">
+      <package pattern="Microsoft.Data.SqlClient" />
+    </packageSource>
+  </packageSourceMapping>
+</configuration>

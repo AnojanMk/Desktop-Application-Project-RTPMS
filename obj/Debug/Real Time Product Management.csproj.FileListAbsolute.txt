@@ -1,0 +1,112 @@
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Real Time Product Management.csproj.AssemblyReference.cache
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral_Time_Product_Management.Properties.Resources.resources
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Real Time Product Management.csproj.GenerateResource.cache
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Real Time Product Management.csproj.CoreCompileInputs.cache
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral_Time_Product_Management.LoginForm.resources
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Ral Time Product Management.exe.config
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Ral Time Product Management.exe
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Ral Time Product Management.pdb
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral Time Product Management.exe
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral Time Product Management.pdb
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral Time Product Management.exe.config
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\ExCSS.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Fizzler.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\FontAwesome.WinForms.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\GumroadLicensing.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Kimtoo.MenuBar.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Newtonsoft.Json.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Svg.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Buffers.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Memory.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Numerics.Vectors.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Fizzler.pdb
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Newtonsoft.Json.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Svg.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Buffers.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Memory.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Numerics.Vectors.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral_Time_Product_Management.Dashboard.resources
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Real Tim.FB1B8094.Up2Date
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral_Time_Product_Management.ProductDetails.resources
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Azure.Core.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Azure.Identity.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Identity.Client.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.ClientModel.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Memory.Data.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.AccessControl.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.Principal.Windows.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Text.Encodings.Web.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Text.Json.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.ValueTuple.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Azure.Core.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Azure.Identity.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Identity.Client.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.ClientModel.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Memory.Data.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.AccessControl.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Security.Principal.Windows.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Text.Encodings.Web.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Text.Json.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\System.ValueTuple.xml
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Real Time Product Management.csproj.SuggestedBindingRedirects.cache
+E:\Ict project\Ral Time Product Management\Ral Time Product Management\obj\Debug\Ral_Time_Product_Management.save.resources
