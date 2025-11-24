@@ -1,6 +1,7 @@
 # Desktop-Application-Project-RTPMS
 
  Real-Time Product Management System
+ 
 A C# desktop application designed to streamline product tracking, inventory control, and real-time updates for businesses. This project demonstrates robust system design, modular architecture, and seamless database integration, making it a reliable solution for managing products efficiently.
 
  Features
